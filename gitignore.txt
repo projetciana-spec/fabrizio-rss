@@ -1,0 +1,6 @@
+node_modules/
+.env
+posts-connus.json
+feed.xml
+*.log
+.DS_Store

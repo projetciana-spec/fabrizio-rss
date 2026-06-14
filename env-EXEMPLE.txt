@@ -1,0 +1,5 @@
+FB_EMAIL=babakpikpachristian0@gmail.com
+FB_PASSWORD=Simonne90600284
+FB_PAGE_URL=https://www.facebook.com/fabrizioromanoherewego
+PORT=3000
+APIFY_TOKEN=apify_api_BFOCceLnA3GMr8J0fMcHBmQ6VY3Jec27tuEs
